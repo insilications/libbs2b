@@ -6,6 +6,8 @@ binutils-extras
 bison
 buildreq-cmake
 buildreq-distutils3
+bzip2-dev
+bzip2-staticdev
 cmake
 curl-dev
 dejagnu
@@ -24,11 +26,6 @@ flex
 gcc
 gcc-dev
 gcc-doc
-gcc-go
-gcc-go-lib
-gcc-libs-math
-gcc-libubsan
-gcc-locale
 gdb-dev
 git
 glibc-bin
